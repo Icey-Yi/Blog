@@ -3,3 +3,4 @@
 
 ## JAVASCRIPT
 
+[关于Pomise](https://github.com/Icey-Yi/Blog/issues/1)
