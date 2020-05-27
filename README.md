@@ -3,6 +3,4 @@
 
 ## JAVASCRIPT
 
-## 浏览器
 
-## React
