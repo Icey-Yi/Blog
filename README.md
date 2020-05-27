@@ -3,6 +3,3 @@
 
 ## JAVASCRIPT
 
-### [关于Promise](https://github.com/Icey-Yi/Blog/issues/1) 
-
-
